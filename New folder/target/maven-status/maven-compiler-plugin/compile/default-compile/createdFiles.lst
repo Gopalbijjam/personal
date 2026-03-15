@@ -1,0 +1,10 @@
+com\gopal\portfolio\GopalPortfolioApplication.class
+com\gopal\portfolio\model\PortfolioResponse.class
+com\gopal\portfolio\model\ProjectEntry.class
+com\gopal\portfolio\web\PortfolioController.class
+com\gopal\portfolio\model\EducationEntry.class
+com\gopal\portfolio\model\Metric.class
+com\gopal\portfolio\model\RoleEntry.class
+com\gopal\portfolio\model\Profile.class
+com\gopal\portfolio\model\SkillCategory.class
+com\gopal\portfolio\service\PortfolioService.class
